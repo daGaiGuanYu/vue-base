@@ -1,0 +1,29 @@
+{
+  "name": "vue-base",
+  "version": "1.0.0",
+  "description": "base of vue",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daGaiGuanYu/vue-base.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "gy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daGaiGuanYu/vue-base/issues"
+  },
+  "homepage": "https://github.com/daGaiGuanYu/vue-base#readme",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "pug": "^2.0.4",
+    "sass": "^1.23.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
