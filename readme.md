@@ -15,3 +15,10 @@ webpack 因为**巨大**而已经被吐槽了很长时间，[parcel](https://par
 这些特点让前端开发者远离：**写配置文件**、**寻找各种 loader/plugin** 等与开发网页没有太大关系的事务，也算是解放了生产力
 
 ## Go
+``` bash
+npm install -g parcel-bundler # 安装过 parcel 就不要重复安装了
+git clone https://github.com/daGaiGuanYu/vue-base.git
+cd vue-base
+parcel src/entry/index.html
+```
+项目已经跑在 localhost:1234 上了
